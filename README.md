@@ -1,0 +1,2 @@
+# Magic-Notes
+Python Notepad
